@@ -5,7 +5,6 @@
 ##### Data cleaning.
 ##### Data Analysis.
 ##### Data Visualyzation.
-##### Data Presentation.
 ##### Recommendations.
 
 
@@ -50,7 +49,8 @@
 ##### Furthermore, I also dive into product performance in the product report to also gain insights into the performance of each product in relation to quantity sold/ordered and also in relation to each product contribution to the revenue of NorthWind Traders Company.
  <img width="769" alt="product revenur report" src="https://github.com/Cleancent26/NorthWind-Traders-Company-First-Half-of-2015.A-PowerBI-Project./assets/159614822/e5b2c295-282b-422c-86a9-16e07d20a4d6">
 
-
+##### Recommendations.
+##### 
 
 
 
