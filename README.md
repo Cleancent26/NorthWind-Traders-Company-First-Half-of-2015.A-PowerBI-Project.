@@ -1,4 +1,4 @@
-# NorthWind-Traders-Company-First-Half-of-2015-.-An-Sql-Project.
+# NorthWind-Traders-Company-First-Half-of-2015. A PowerBI project
 ### Table of Content.
 ##### Problem Statement and Task.
 ##### Data Collection.
