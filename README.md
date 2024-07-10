@@ -1,3 +1,5 @@
+<img width="663" alt="northwind traders company logo" src="https://github.com/Cleancent26/NorthWind-Traders-Company-First-Half-of-2015.A-PowerBI-Project./assets/159614822/fddd9ed1-063f-4228-b659-0e24c864369f">
+
 # NorthWind-Traders-Company-First-Half-of-2015. A PowerBI project
 ### Table of Content.
 ##### Problem Statement and Task.
