@@ -51,8 +51,10 @@
 ##### Furthermore, I also dive into product performance in the product report to also gain insights into the performance of each product in relation to quantity sold/ordered and also in relation to each product contribution to the revenue of NorthWind Traders Company.
  <img width="769" alt="product revenur report" src="https://github.com/Cleancent26/NorthWind-Traders-Company-First-Half-of-2015.A-PowerBI-Project./assets/159614822/e5b2c295-282b-422c-86a9-16e07d20a4d6">
 
-##### Recommendations.
-##### 
+### Recommendations.
+##### In the anlytical  process undertaking in this project work, the following insights were reached:
+##### 1. In order of hierarchy, the following products are with the highest ordered quantity.
+<img width="960" alt="QO" src="https://github.com/user-attachments/assets/946658ed-4e49-420d-bfaa-f6f13445d7e6">
 
 
 
