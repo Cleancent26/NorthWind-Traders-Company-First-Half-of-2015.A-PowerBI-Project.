@@ -55,6 +55,7 @@
 ##### In the anlytical  process undertaking in this project work, the following insights were reached:
 ##### 1. In order of hierarchy, the following products are with the highest ordered quantity.
 <img width="960" alt="QO" src="https://github.com/user-attachments/assets/946658ed-4e49-420d-bfaa-f6f13445d7e6">
+
 ##### From the image above we could see how certain products with low units price were of higher quantity and inturn generated much higher revenue as against the cost of such products. This could be seen by relating each product to the corresponding unit price and also its revenue. Revenue in green backgroung depicts high revenue as those in yellow depicts fair revenue while those in red depicts  poor revenue.
 
 
