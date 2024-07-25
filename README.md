@@ -52,11 +52,14 @@
  <img width="769" alt="product revenur report" src="https://github.com/Cleancent26/NorthWind-Traders-Company-First-Half-of-2015.A-PowerBI-Project./assets/159614822/e5b2c295-282b-422c-86a9-16e07d20a4d6">
 
 ### Recommendations.
-##### In the anlytical  process undertaking in this project work, the following insights were reached:
+##### In the analytical  process undertaking in this project work, the following insights were reached:
 ##### 1. In order of hierarchy, the following products are with the highest ordered quantity.
 <img width="960" alt="QO" src="https://github.com/user-attachments/assets/946658ed-4e49-420d-bfaa-f6f13445d7e6">
 
-##### From the image above we could see how certain products with low units price were of higher quantity and inturn generated much higher revenue as against the cost of such products. This could be seen by relating each product to the corresponding unit price and also its revenue. Revenue in green backgroung depicts high revenue as those in yellow depicts fair revenue while those in red depicts  poor revenue.
+##### From the image above we could see how certain products with low units price were of high quantity ordered and inturn generated much higher revenue as against the cost of such products. This could be seen by relating each product to the corresponding unit price and also its revenue. Revenue in green background depicts high revenue as those in yellow depicts fair revenue while those in red depicts poor revenue.
+
+##### In addition, a more closer look at the quantity ordered, products with average unit price and poor quantity ordered and poor revenue should be purchase in limited quantity so as to create room for more efficient purchase of products with high yielding revenue i.e products with high demand. Also products with low unit price but fair unit quantity ordered and high revenue, should be made more available to customers and also more funds be made available to purchase more of those products.
+##### From the analysis in the product table, one could see the various products that are of high demand and as such those are the products that keeps the customers coming back and their availabity should be ensured so as not give rooms to customers to sort for such products anywhere.
 
 
 
